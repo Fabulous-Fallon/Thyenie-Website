@@ -9,26 +9,11 @@ body {
 }
 
 .box-main {
-  border: 1px solid DeepPink;
-    border-top-width: 1px;
-    border-top-style: solid;
-    border-right-width: 1px;
-    border-right-style: solid;
-    border-bottom-width: 1px;
-    border-bottom-style: solid;
-    border-left-width: 1px;
-    border-left-style: solid;
-    border-image-outset: 0;
-    border-image-repeat: stretch;
-    border-image-slice: 100%;
-    border-image-source: none;
-    border-image-width: 1;
-  width: 1000px;
-  height: auto;
-  display: block;
-  margin: auto;
-  padding-left: 2%;
-  border-width: 5px;
-  border-style: solid;
-  background: linear-gradient(hotpink 40%, pink);
+    border: 5px solid DeepPink;
+    width: 1000px;
+    height: auto;
+    display: block;
+    margin: auto;
+    padding-left: 2%;
+    background: linear-gradient(hotpink 40%, pink);
 }
