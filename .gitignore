@@ -29,3 +29,6 @@ Thumbs.db # Windows specific file
 # Temporary files
 *.log
 *.tmp
+
+# Idea Project Folder
+.idea/
